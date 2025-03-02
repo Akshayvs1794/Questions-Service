@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "category": "java",
+    "dificulty_level": "Eazy",
+    "option1": "class",
+    "option2": "extends",
+    "option3": "implements",
+    "option4": "static",
+    "question_title": "Which java keyword is used to create a subClass ?",
+    "right_answer": "extends"
+  },
+  {
+    "id": 6,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "4",
+    "option2": "5",
+    "option3": "6",
+    "option4": "compile error",
+    "question_title": "What is output of following java code snippet?\n int x=5;\n System.out.println(x++);",
+    "right_answer": "5"
+  },
+  {
+    "id": 7,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "true",
+    "option2": "false",
+    "option3": "0",
+    "option4": "null",
+    "question_title": "In java, What is the default value of an uninitialized boolean variable ?",
+    "right_answer": "false"
+  },
+  {
+    "id": 8,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "127",
+    "option2": "255",
+    "option3": "32767",
+    "option4": "64",
+    "question_title": "What is the maximum value that can be stored in a byte variable in Java?",
+    "right_answer": "127"
+  },
+  {
+    "id": 9,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "char",
+    "option2": "String",
+    "option3": "letter",
+    "option4": "ch",
+    "question_title": "Which data type is used to store a single character in Java?",
+    "right_answer": "char"
+  },
+  {
+    "id": 10,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "0",
+    "option2": "1",
+    "option3": "-1",
+    "option4": "null",
+    "question_title": "What is the default value of an int variable in Java if it's not explicitly initialized?",
+    "right_answer": "0"
+  },
+  {
+    "id": 11,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "my_var",
+    "option2": "_my_var",
+    "option3": "3rdVar",
+    "option4": "$var",
+    "question_title": "Which of the following is not a valid identifier for a Java variable?",
+    "right_answer": "3rdVar"
+  },
+  {
+    "id": 12,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "public static int main(String[] args)",
+    "option2": "public static int(String[] args)",
+    "option3": "public static void main(String[] args)",
+    "option4": "None of the above",
+    "question_title": "What is correct syntax for main method of a java class?",
+    "right_answer": "public static void main(String[] args)"
+  },
+  {
+    "id": 13,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "0",
+    "option2": "0.0",
+    "option3": "null",
+    "option4": "undefined",
+    "question_title": "What is the default value of byte variable?",
+    "right_answer": "0"
+  },
+  {
+    "id": 14,
+    "category": "java",
+    "dificulty_level": "Easy",
+    "option1": "Polymorphism is the ability of an object to take on many forms.",
+    "option2": "Polymorphism is a technique to define different methods of same type.",
+    "option3": "Polymorphism is a technique to define different objects of same type.",
+    "option4": "None of the above.",
+    "question_title": "What is polymorphism?",
+    "right_answer": "Polymorphism is the ability of an object to take on many forms."
+  },
+  {
+    "id": 15,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "JavaScript is a lightweight, interpreted programming language.",
+    "option2": "JavaScript is designed for creating network-centric applications.",
+    "option3": "JavaScript is complementary to and integrated with Java.",
+    "option4": "All of the above.",
+    "question_title": "Which of the following is correct about features of JavaScript?",
+    "right_answer": "All of the above."
+  },
+  {
+    "id": 16,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "window.print();",
+    "option2": "browser.print();",
+    "option3": "navigator.print();",
+    "option4": "document.print();",
+    "question_title": "Which of the following is the correct syntax to print a page using JavaScript?",
+    "right_answer": "window.print()"
+  },
+  {
+    "id": 17,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "global variable",
+    "option2": "local variable",
+    "option3": "Both of the above",
+    "option4": "None of the above",
+    "question_title": " Which of the following type of variable takes precedence over other if names are same?",
+    "right_answer": "local variable"
+  },
+  {
+    "id": 18,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "var book = Object();",
+    "option2": "var book = new Object();",
+    "option3": "var book = NEW OBJECT();",
+    "option4": "var book = new Book();",
+    "question_title": "Which of the following code creates an object?",
+    "right_answer": "var book = new Book();"
+  },
+  {
+    "id": 19,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "pop()",
+    "option2": "push()",
+    "option3": "join()",
+    "option4": "map()",
+    "question_title": "Which of the following function of Array object removes the last element from an array and returns that element?",
+    "right_answer": "pop()"
+  },
+  {
+    "id": 20,
+    "category": "javascript",
+    "dificulty_level": "Easy",
+    "option1": "reverse()",
+    "option2": "push()",
+    "option3": "reduce()",
+    "option4": "reduceRight()",
+    "question_title": "Which of the following function of Array object reverses the order of the elements of an array?",
+    "right_answer": "reverse()"
+  },
+  {
+    "id": 21,
+    "category": "Typescript",
+    "dificulty_level": "Easy",
+    "option1": "Memory Management",
+    "option2": "Dynamic Typing",
+    "option3": "Static Typing",
+    "option4": "Asynchronous operations",
+    "question_title": " What is TypeScript primarily used for?",
+    "right_answer": "Static Typing"
+  },
+  {
+    "id": 22,
+    "category": "Typescript",
+    "dificulty_level": "Easy",
+    "option1": "void",
+    "option2": "any",
+    "option3": "dynamic",
+    "option4": "tuples",
+    "question_title": "Which of the following is NOT a valid TypeScript data type?",
+    "right_answer": "dynamic"
+  },
+  {
+    "id": 23,
+    "category": "Typescript",
+    "dificulty_level": "Easy",
+    "option1": "const",
+    "option2": "static",
+    "option3": "readonly",
+    "option4": "fixed",
+    "question_title": "How do you denote a variable as readonly in TypeScript?",
+    "right_answer": "readonly"
+  },
+  {
+    "id": 24,
+    "category": "Typescript",
+    "dificulty_level": "Easy",
+    "option1": "confunction myFunc(): undefined",
+    "option2": "function myFunc(): void",
+    "option3": "function myFunc(): null",
+    "option4": "function myFunc(): none",
+    "question_title": "How do you specify that a function does not return anything in TypeScript?",
+    "right_answer": "function myFunc(): void"
+  },
+  {
+    "id": 25,
+    "category": "Typescript",
+    "dificulty_level": "Easy",
+    "option1": "interface",
+    "option2": "typedef",
+    "option3": "type",
+    "option4": "Both A and C",
+    "question_title": "How do you define a custom type in TypeScript?",
+    "right_answer": "Both A and C"
+  }
+]
